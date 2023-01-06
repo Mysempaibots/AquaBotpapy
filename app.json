@@ -5,7 +5,7 @@
     "keywords": ["whatsapp", "userbot", "aqua", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/iamMagma/ptsp",
     "website":   "https://aquabot.ga/",
-    "success_url": "https://sanuw-api.herokuapp.com/",
+    "success_url": "https://sanuw-api.koyebapp.com/",
     "stack": "container",
     "env": {
         "AQUA_SESSION": {
@@ -110,13 +110,13 @@
 			"description": "Images වල background ඉවත් කිරීමට https://remove.bg වෙත ගොස් ලැබෙන API key එක ලබා දෙන්න.",
 			"required": false
 		},
-        "HEROKU": {
-            "description": " If it is running in Heroku, type true.",
+        "KOYEB": {
+            "description": " If it is running in koyeb, type true.",
             "required": true,
             "value": "true"
         },
-        "HEROKU_API_KEY": {
-            "description": " https://dashboard.heroku.com/account මෙම link ක්ලික් කරන්න. API key සඳහා පහළට scroll කරන්න. ඉන්පසු Reveal බොත්තම ක්ලික් කරන්න. එම API key copy කර පහත හිස් කොටුව paste කරන්න.y.",
+        "KOYEB_API_KEY": {
+            "description": " https://dashboard.koyeb.com/account මෙම link ක්ලික් කරන්න. API key සඳහා පහළට scroll කරන්න. ඉන්පසු Reveal බොත්තම ක්ලික් කරන්න. එම API key copy කර පහත හිස් කොටුව paste කරන්න.y.",
             "required": true
         },
        
