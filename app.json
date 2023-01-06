@@ -209,9 +209,9 @@
         }   
     },
     "addons": [{
-      "plan": "heroku-postgresql"
+      "plan": "koyeb-postgresql"
     }],
     "buildpacks": [{
-      "url": "heroku-community/apt"
+      "url": "koyeb-community/apt"
       }]
   }
