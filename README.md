@@ -6,7 +6,11 @@
 ## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/sanuwaofficial/AquaBot)
 
-[![Deploy](https://www.koyebcdn.com/deploy/button.svg)](https://dashboard.koyeb.com/new?template=https://github.com/AkA237/AquaBot)
+<p align="center">
+
+<a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/AkA237/AquaBot&branch=main&name=aquabot"><img align="center" src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Fork and deploy" /></a>
+
+</P>
 ---------------------------------   
 
  ###  Developer :- Sanuwa-official 
